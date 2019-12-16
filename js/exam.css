@@ -1,0 +1,18 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	width: 999px;
+	height: 100px;
+	/* background: #f00; */
+	margin: 0 auto;
+}
+img{
+	width: 999px;
+	height: 1000px;
+	/* background: #0f0; */
+	float:left;
+	margin-left: 20px;
+	margin-top: 39px;
+}
